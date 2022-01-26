@@ -1,8 +1,5 @@
 # Shopping Cart Tool - NodeJS/Express
-> A ShoppingCart (Ecommerce) webapp build using NodeJs, Express, MongoDB.
 
-# Live Demo on Heroku:
-[https://shopping-cart-tool.herokuapp.com/](https://shopping-cart-tool.herokuapp.com/)
 
 ### Features
 * Login/Signup
